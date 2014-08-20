@@ -8,4 +8,8 @@
 * [মাল্টিপল ডেভেলপার](5-multiple-developer.md)
 * [একাধিক রিমোট রিপো](6-multiple-remote-repo.md)
 * [গিট-ফ্লও পরিচিতি](7-git-flow-indroduction.md)
-* [গিট-ফ্লও ফিচার](7.1-fit-flow-feature.md)
+* [গিট-ফ্লও ইন্সটলেশন এবং  কনফিগারেশন](7.1-git-flow-installation-configuration.md)
+* [গিট-ফ্লওফিচার](7.2-git-flow-feature.md)
+* [গিট-ফ্লও রিলিস](7.3-git-flow-release.md)
+* [গিট-ফ্লও হটফিক্স](7.4-git-flow-hotfix.md)
+
