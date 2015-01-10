@@ -4,7 +4,8 @@
 
 # ভার্সন কন্ট্রোল সিস্টেম – গিট (git)
 
-[আজহার ইবনে মোস্তাফিজ](https://github.com/theazharul), [মাহবুবুল হাসান মাসুদ](https://www.facebook.com/masudiiuc)
+<iframe scrolling="auto" frameborder="0" style="border:none; overflow:hidden; height:170px; width:100%; margin-left: 15;" allowTransparency="true" src="http://api.howtocode.com.bd/contrib/git"></iframe> 
+
 
 ভার্সন কন্ট্রোল (Version Control) : ভার্সন কন্টোল হচ্ছে এমন একটি পদ্ধতি যা আপনার প্রজেক্টের(project) বিভিন্ন সময়ের পরিবর্তনগুলো সংরক্ষণ করে রাখে। ভার্সন কন্ট্রোল সিস্টেমের মাধ্যমে আপনি আপনার প্রজেক্টের পূর্বের যে কোন সময়ের স্থিতীশীল অবস্থায় ফিরে যেতে পারবেন।
 
