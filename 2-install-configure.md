@@ -11,30 +11,30 @@ Linux এর বিভিন্ন ডিস্ট্রো এর জন্য 
 
 * Debian/Ubuntu  
     ```
-    $ apt-get install git  
+    # apt-get install git  
     ```  
 * Fedora  
     ```
-    $ yum install git  
+    # yum install git  
     ```  
 * Gentoo  
     ```
-    $ emerge --ask --verbose dev-vcs/git
+    # emerge --ask --verbose dev-vcs/git
     ```  
 * Arch Linux  
     ```
-    $ pacman -S git
+    # pacman -S git
     ```  
 * FreeBSD  
     ```
     $ cd /usr/ports/devel/git
     ```  
     ```
-    $ make install
+    $make install
     ```  
 * Solaris 11 Express  
     ```
-    $ pkg install developer/versioning/git
+    %pkg install developer/versioning/git
     ```  
 * OpenBSD  
     ```
