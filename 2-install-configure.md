@@ -34,7 +34,7 @@ Linux এর বিভিন্ন ডিস্ট্রো এর জন্য 
     ```  
 * Solaris 11 Express  
     ```
-    %pkg install developer/versioning/git
+    $ pkg install developer/versioning/git
     ```  
 * OpenBSD  
     ```
