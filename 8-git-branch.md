@@ -19,14 +19,16 @@ git checkout -b develop
 ```
 
 আমরা ব্রাঞ্চ চেক করতে পারি 
-```git branch```
+```
+git branch
+```
 
 আউটপুট
 ```
 *develop
  master
 ```
-১ ব্রাঞ্চ থেকে অন্য়টায় যেতে হয় ঃ
+যে ব্রাঞ্চের সামনে * , আমরা সেই ব্রাঞ্চে অবস্থিত। ১ ব্রাঞ্চ থেকে অন্য়টায় যেতে হয় ঃ
 ``` 
 git checkout <brunch-name>
 # such as
