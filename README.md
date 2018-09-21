@@ -1,11 +1,8 @@
 <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fhowtocode.com.bd%2F&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId=353725671441956" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>    
 
-# ভার্সন কন্ট্রোল সিস্টেম – গিট (git)
-
-[![Join the chat at https://gitter.im/howtocode-com-bd/git.howtocode.com.bd](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/howtocode-com-bd/git.howtocode.com.bd?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-<iframe scrolling="auto" frameborder="0" style="border:none; overflow:hidden; height:170px; width:100%; margin-left: 15;" allowTransparency="true" src="http://api.howtocode.com.bd/contrib/git"></iframe> 
-
+**স্বয়ংক্রিয় কন্ট্রিবিউটরের তালিকা**  
+(প্রথম ৫ জন)  
+<iframe scrolling="auto" frameborder="0" style="border:none; overflow:hidden; height:115px; width:100%; margin-left: 15;" allowTransparency="true" src="https://nuhil.github.io/api/contributions.html?repo=git"></iframe>   
 
 ভার্সন কন্ট্রোল (Version Control) : ভার্সন কন্টোল হচ্ছে এমন একটি পদ্ধতি যা আপনার প্রজেক্টের(project) বিভিন্ন সময়ের পরিবর্তনগুলো সংরক্ষণ করে রাখে। ভার্সন কন্ট্রোল সিস্টেমের মাধ্যমে আপনি আপনার প্রজেক্টের পূর্বের যে কোন সময়ের স্থিতীশীল অবস্থায় ফিরে যেতে পারবেন।
 
