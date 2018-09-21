@@ -1,5 +1,5 @@
 {
-	"gitbook": "2.x.x",
+	"gitbook": "2.3.0",
 	"plugins": ["disqus", "github", "edit-link"],
 	"pluginsConfig": {
 		"disqus": {
