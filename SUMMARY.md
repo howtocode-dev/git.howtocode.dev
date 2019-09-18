@@ -13,3 +13,5 @@
   * [গিট-ফ্লও রিলিস](7.3-git-flow-release.md)
   * [গিট-ফ্লও হটফিক্স](7.4-git-flow-hotfix.md)
 * [গিট ব্রাঞ্চ](8-git-branch.md)
+* [গিট লগ](9-git-log.md)
+* [গিট চেরি-পিক](10-git-cherry-pick.md)
