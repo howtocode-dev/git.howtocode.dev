@@ -6,15 +6,15 @@
 
 **`master` ব্রাঞ্চ:**
 
-![git log on master](img/git-cherry-pick-1.png)
+![git log on master](.gitbook/assets/git-cherry-pick-1.png)
 
 **`feature` ব্রাঞ্চ:**
 
-![git log on feature](img/git-cherry-pick-2.png)
+![git log on feature](.gitbook/assets/git-cherry-pick-2.png)
 
 **`hotfix` ব্রাঞ্চ:**
 
-![git log on hotfix](img/git-cherry-pick-3.png)
+![git log on hotfix](.gitbook/assets/git-cherry-pick-3.png)
 
 দেখা যাচ্ছে, `master` ব্রাঞ্চে প্রথম কমিটটি দেওয়ার পরই দুটি আলাদা ব্রাঞ্চ খোলা হয়েছে এবং ব্রাঞ্চ দুটিতে পরস্পর থেকে স্বাধীনভাবে কাজ চলছে।
 
@@ -28,6 +28,7 @@ git cherry-pick ffe3e1f
 
 তাহলেই `hotfix` ব্রাঞ্চ থেকে ওই একটি কমিট আমাদের `feature` ব্রাঞ্চে চলে আসবে। এখন যদি আমরা `git log` কমান্ড দেই, তাহলে দেখতে পাবো,
 
-![git log on feature after cherry-pick](img/git-cherry-pick-4.png)
+![git log on feature after cherry-pick](.gitbook/assets/git-cherry-pick-4.png)
 
 দেখা যাচ্ছে, `hotfix` ব্রাঞ্চ থেকে শুধুমাত্র ওই একটি কমিট `feature` ব্রাঞ্চে যোগ হয়েছে এবং `feature` ব্রাঞ্চে করা আগের কমিটগুলো আগের মতই রয়ে গেছে।
+
